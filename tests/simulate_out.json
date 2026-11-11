@@ -1,0 +1,4975 @@
+{
+ "personas": [
+  {
+   "id": 1,
+   "name": "Otieno",
+   "country": "Kenya",
+   "age": 16,
+   "interest": "building",
+   "subject": "addmath",
+   "english": 1,
+   "prior": 0.2205103165935725,
+   "patience": 192,
+   "resilience": 2,
+   "habit": "jumps to the questions",
+   "phone": "shared family Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 1,
+   "quit": true,
+   "accuracy": 27,
+   "unfair": 0
+  },
+  {
+   "id": 2,
+   "name": "Yusuf",
+   "country": "Refugee camp",
+   "age": 16,
+   "interest": "doctors",
+   "subject": "biology",
+   "english": 2,
+   "prior": 0.5674113176879474,
+   "patience": 280,
+   "resilience": 5,
+   "habit": "rushes and guesses",
+   "phone": "iPhone",
+   "width": 360,
+   "style": {
+    "units": true,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": false,
+    "fractionAsDecimal": true,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 3,
+   "quit": true,
+   "accuracy": 26,
+   "unfair": 0
+  },
+  {
+   "id": 3,
+   "name": "Mariam",
+   "country": "Refugee camp",
+   "age": 15,
+   "interest": "doctors",
+   "subject": "biology",
+   "english": 3,
+   "prior": 0.25605412577278913,
+   "patience": 186,
+   "resilience": 2,
+   "habit": "skims the text",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 3,
+   "quit": true,
+   "accuracy": 55,
+   "unfair": 0
+  },
+  {
+   "id": 4,
+   "name": "Ishara",
+   "country": "Sri Lanka",
+   "age": 16,
+   "interest": "building",
+   "subject": "physics",
+   "english": 4,
+   "prior": 0.40313129576388745,
+   "patience": 363,
+   "resilience": 4,
+   "habit": "gives up when stuck",
+   "phone": "Android",
+   "width": 320,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": true,
+    "fractionAsDecimal": true,
+    "capitals": true,
+    "plural": true,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 3,
+   "quit": false,
+   "accuracy": 54,
+   "unfair": 1
+  },
+  {
+   "id": 5,
+   "name": "Anjali",
+   "country": "Nepal",
+   "age": 15,
+   "interest": "maps",
+   "subject": "geography",
+   "english": 4,
+   "prior": 0.834922060603276,
+   "patience": 373,
+   "resilience": 4,
+   "habit": "reads every word",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": true,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 94,
+   "unfair": 0
+  },
+  {
+   "id": 6,
+   "name": "Bikash",
+   "country": "Nepal",
+   "age": 16,
+   "interest": "maps",
+   "subject": "geography",
+   "english": 3,
+   "prior": 0.12508332484867424,
+   "patience": 363,
+   "resilience": 5,
+   "habit": "repeats until perfect",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": true,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": true,
+    "fractionAsDecimal": true,
+    "capitals": true,
+    "plural": true,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 5,
+   "quit": false,
+   "accuracy": 53,
+   "unfair": 0
+  },
+  {
+   "id": 7,
+   "name": "Yusuf",
+   "country": "Refugee camp",
+   "age": 14,
+   "interest": "football",
+   "subject": "physics",
+   "english": 1,
+   "prior": 0.19393187882378699,
+   "patience": 453,
+   "resilience": 2,
+   "habit": "skims the text",
+   "phone": "Android",
+   "width": 393,
+   "style": {
+    "units": true,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": true,
+    "capitals": false,
+    "plural": true,
+    "americanSpelling": true,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 4,
+   "quit": true,
+   "accuracy": 59,
+   "unfair": 0
+  },
+  {
+   "id": 8,
+   "name": "Ngozi",
+   "country": "Nigeria",
+   "age": 15,
+   "interest": "cooking",
+   "subject": "biology",
+   "english": 4,
+   "prior": 0.4942228346364573,
+   "patience": 71,
+   "resilience": 3,
+   "habit": "repeats until perfect",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": true,
+    "capitals": true,
+    "plural": true,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 5,
+   "quit": false,
+   "accuracy": 73,
+   "unfair": 0
+  },
+  {
+   "id": 9,
+   "name": "Achieng",
+   "country": "Kenya",
+   "age": 14,
+   "interest": "cooking",
+   "subject": "chemistry",
+   "english": 5,
+   "prior": 0.9131797087844462,
+   "patience": 112,
+   "resilience": 4,
+   "habit": "rushes and guesses",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": true,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 48,
+   "unfair": 0
+  },
+  {
+   "id": 10,
+   "name": "Nyasha",
+   "country": "Zimbabwe",
+   "age": 15,
+   "interest": "maps",
+   "subject": "history",
+   "english": 5,
+   "prior": 0.7169213798595593,
+   "patience": 381,
+   "resilience": 1,
+   "habit": "gives up when stuck",
+   "phone": "Android",
+   "width": 393,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": true,
+    "fractionAsDecimal": true,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": true,
+    "fullSentence": false
+   },
+   "lessons": 3,
+   "quit": false,
+   "accuracy": 92,
+   "unfair": 0
+  },
+  {
+   "id": 11,
+   "name": "Rudo",
+   "country": "Zimbabwe",
+   "age": 15,
+   "interest": "nature",
+   "subject": "biology",
+   "english": 5,
+   "prior": 0.6435048685409129,
+   "patience": 61,
+   "resilience": 2,
+   "habit": "studies late at night, tired",
+   "phone": "Android",
+   "width": 412,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": true,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 65,
+   "unfair": 0
+  },
+  {
+   "id": 12,
+   "name": "Tendai",
+   "country": "Zimbabwe",
+   "age": 14,
+   "interest": "games",
+   "subject": "computing",
+   "english": 3,
+   "prior": 0.2215037403861061,
+   "patience": 315,
+   "resilience": 5,
+   "habit": "jumps to the questions",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": false,
+    "fractionAsDecimal": true,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 0,
+   "quit": true,
+   "accuracy": 0,
+   "unfair": 0
+  },
+  {
+   "id": 13,
+   "name": "Yusuf",
+   "country": "Refugee camp",
+   "age": 15,
+   "interest": "maps",
+   "subject": "history",
+   "english": 1,
+   "prior": 0.10381477854680271,
+   "patience": 368,
+   "resilience": 2,
+   "habit": "studies late at night, tired",
+   "phone": "Android",
+   "width": 393,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": true,
+    "fractionAsDecimal": true,
+    "capitals": false,
+    "plural": true,
+    "americanSpelling": true,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 1,
+   "quit": true,
+   "accuracy": 33,
+   "unfair": 0
+  },
+  {
+   "id": 14,
+   "name": "Ishara",
+   "country": "Sri Lanka",
+   "age": 16,
+   "interest": "cars",
+   "subject": "math",
+   "english": 4,
+   "prior": 0.8267894480144605,
+   "patience": 357,
+   "resilience": 4,
+   "habit": "repeats until perfect",
+   "phone": "Android",
+   "width": 412,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": true,
+    "fullSentence": true
+   },
+   "lessons": 5,
+   "quit": false,
+   "accuracy": 88,
+   "unfair": 0
+  },
+  {
+   "id": 15,
+   "name": "Sita",
+   "country": "Nepal",
+   "age": 14,
+   "interest": "money",
+   "subject": "math",
+   "english": 3,
+   "prior": 0.13700143583118918,
+   "patience": 449,
+   "resilience": 4,
+   "habit": "gives up when stuck",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": true,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": true,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 3,
+   "quit": false,
+   "accuracy": 33,
+   "unfair": 0
+  },
+  {
+   "id": 16,
+   "name": "Priya",
+   "country": "India",
+   "age": 16,
+   "interest": "building",
+   "subject": "addmath",
+   "english": 3,
+   "prior": 0.22441757742781193,
+   "patience": 340,
+   "resilience": 3,
+   "habit": "rushes and guesses",
+   "phone": "Android",
+   "width": 393,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": false,
+    "fractionAsDecimal": true,
+    "capitals": false,
+    "plural": true,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 1,
+   "quit": true,
+   "accuracy": 29,
+   "unfair": 0
+  },
+  {
+   "id": 17,
+   "name": "Kavya",
+   "country": "India",
+   "age": 15,
+   "interest": "maps",
+   "subject": "geography",
+   "english": 3,
+   "prior": 0.056436784891411663,
+   "patience": 416,
+   "resilience": 2,
+   "habit": "plays with every slider",
+   "phone": "iPhone",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": true,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 5,
+   "quit": true,
+   "accuracy": 47,
+   "unfair": 0
+  },
+  {
+   "id": 18,
+   "name": "Chiamaka",
+   "country": "Nigeria",
+   "age": 16,
+   "interest": "nature",
+   "subject": "geography",
+   "english": 3,
+   "prior": 0.8652257974026726,
+   "patience": 341,
+   "resilience": 3,
+   "habit": "jumps to the questions",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": true,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 65,
+   "unfair": 0
+  },
+  {
+   "id": 19,
+   "name": "Sakib",
+   "country": "Bangladesh",
+   "age": 15,
+   "interest": "maps",
+   "subject": "geography",
+   "english": 3,
+   "prior": 0.41646213000640275,
+   "patience": 366,
+   "resilience": 1,
+   "habit": "repeats until perfect",
+   "phone": "Android",
+   "width": 412,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": false,
+    "fractionAsDecimal": true,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 5,
+   "quit": false,
+   "accuracy": 45,
+   "unfair": 0
+  },
+  {
+   "id": 20,
+   "name": "Anjali",
+   "country": "Nepal",
+   "age": 15,
+   "interest": "stories",
+   "subject": "english",
+   "english": 1,
+   "prior": 0.7900523346150294,
+   "patience": 248,
+   "resilience": 1,
+   "habit": "gives up when stuck",
+   "phone": "shared family Android",
+   "width": 412,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": true,
+    "enDash": false,
+    "fullSentence": true
+   },
+   "lessons": 0,
+   "quit": true,
+   "accuracy": 0,
+   "unfair": 0
+  },
+  {
+   "id": 21,
+   "name": "Bikash",
+   "country": "Nepal",
+   "age": 14,
+   "interest": "phones",
+   "subject": "computing",
+   "english": 1,
+   "prior": 0.5919403536710889,
+   "patience": 406,
+   "resilience": 3,
+   "habit": "gives up when stuck",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 3,
+   "quit": false,
+   "accuracy": 58,
+   "unfair": 0
+  },
+  {
+   "id": 22,
+   "name": "Yusuf",
+   "country": "Refugee camp",
+   "age": 15,
+   "interest": "cooking",
+   "subject": "biology",
+   "english": 1,
+   "prior": 0.5413461108342745,
+   "patience": 289,
+   "resilience": 5,
+   "habit": "jumps to the questions",
+   "phone": "Android",
+   "width": 320,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": true,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 58,
+   "unfair": 0
+  },
+  {
+   "id": 23,
+   "name": "Mariam",
+   "country": "Refugee camp",
+   "age": 14,
+   "interest": "phones",
+   "subject": "computing",
+   "english": 2,
+   "prior": 0.5463393970392645,
+   "patience": 179,
+   "resilience": 1,
+   "habit": "plays with every slider",
+   "phone": "Android",
+   "width": 320,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 4,
+   "quit": true,
+   "accuracy": 85,
+   "unfair": 0
+  },
+  {
+   "id": 24,
+   "name": "Rudo",
+   "country": "Zimbabwe",
+   "age": 16,
+   "interest": "stories",
+   "subject": "history",
+   "english": 5,
+   "prior": 0.6169038529740647,
+   "patience": 125,
+   "resilience": 4,
+   "habit": "plays with every slider",
+   "phone": "Android",
+   "width": 393,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 90,
+   "unfair": 0
+  },
+  {
+   "id": 25,
+   "name": "Kamau",
+   "country": "Kenya",
+   "age": 15,
+   "interest": "maps",
+   "subject": "geography",
+   "english": 5,
+   "prior": 0.1690534794237465,
+   "patience": 195,
+   "resilience": 2,
+   "habit": "studies late at night, tired",
+   "phone": "Android",
+   "width": 320,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": true,
+    "roundsEarly": false,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": true,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 4,
+   "quit": true,
+   "accuracy": 64,
+   "unfair": 0
+  },
+  {
+   "id": 26,
+   "name": "Anjali",
+   "country": "Nepal",
+   "age": 15,
+   "interest": "nature",
+   "subject": "geography",
+   "english": 2,
+   "prior": 0.11678754321765156,
+   "patience": 436,
+   "resilience": 3,
+   "habit": "repeats until perfect",
+   "phone": "shared family Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": true,
+    "roundsEarly": false,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 5,
+   "quit": false,
+   "accuracy": 48,
+   "unfair": 0
+  },
+  {
+   "id": 27,
+   "name": "Zainab",
+   "country": "Pakistan",
+   "age": 14,
+   "interest": "cooking",
+   "subject": "chemistry",
+   "english": 3,
+   "prior": 0.2065385905094445,
+   "patience": 64,
+   "resilience": 3,
+   "habit": "repeats until perfect",
+   "phone": "shared family Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": true,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 5,
+   "quit": false,
+   "accuracy": 63,
+   "unfair": 0
+  },
+  {
+   "id": 28,
+   "name": "Farai",
+   "country": "Zimbabwe",
+   "age": 14,
+   "interest": "football",
+   "subject": "physics",
+   "english": 3,
+   "prior": 0.4662369096884504,
+   "patience": 395,
+   "resilience": 4,
+   "habit": "rushes and guesses",
+   "phone": "Android",
+   "width": 412,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": true,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 44,
+   "unfair": 0
+  },
+  {
+   "id": 29,
+   "name": "Vikram",
+   "country": "India",
+   "age": 14,
+   "interest": "cooking",
+   "subject": "chemistry",
+   "english": 1,
+   "prior": 0.8408125419635326,
+   "patience": 86,
+   "resilience": 2,
+   "habit": "repeats until perfect",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": true,
+    "commas": false,
+    "xEquals": true,
+    "roundsEarly": true,
+    "sciNotation": true,
+    "fractionAsDecimal": true,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 5,
+   "quit": false,
+   "accuracy": 80,
+   "unfair": 0
+  },
+  {
+   "id": 30,
+   "name": "Hassan",
+   "country": "Refugee camp",
+   "age": 16,
+   "interest": "cooking",
+   "subject": "biology",
+   "english": 3,
+   "prior": 0.2734969110810198,
+   "patience": 187,
+   "resilience": 2,
+   "habit": "studies late at night, tired",
+   "phone": "iPhone",
+   "width": 360,
+   "style": {
+    "units": true,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": true,
+    "fractionAsDecimal": true,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": true,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 2,
+   "quit": true,
+   "accuracy": 54,
+   "unfair": 0
+  },
+  {
+   "id": 31,
+   "name": "Anjali",
+   "country": "Nepal",
+   "age": 14,
+   "interest": "football",
+   "subject": "math",
+   "english": 1,
+   "prior": 0.2276628464460373,
+   "patience": 354,
+   "resilience": 1,
+   "habit": "reads every word",
+   "phone": "iPhone",
+   "width": 393,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": true,
+    "roundsEarly": true,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 2,
+   "quit": true,
+   "accuracy": 74,
+   "unfair": 0
+  },
+  {
+   "id": 32,
+   "name": "Farai",
+   "country": "Zimbabwe",
+   "age": 15,
+   "interest": "nature",
+   "subject": "biology",
+   "english": 5,
+   "prior": 0.7744814583333209,
+   "patience": 287,
+   "resilience": 5,
+   "habit": "gives up when stuck",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": true,
+    "fractionAsDecimal": true,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 3,
+   "quit": false,
+   "accuracy": 88,
+   "unfair": 0
+  },
+  {
+   "id": 33,
+   "name": "Usman",
+   "country": "Pakistan",
+   "age": 15,
+   "interest": "stories",
+   "subject": "history",
+   "english": 3,
+   "prior": 0.2373127132188529,
+   "patience": 418,
+   "resilience": 3,
+   "habit": "studies late at night, tired",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 71,
+   "unfair": 0
+  },
+  {
+   "id": 34,
+   "name": "Bikash",
+   "country": "Nepal",
+   "age": 15,
+   "interest": "stories",
+   "subject": "history",
+   "english": 1,
+   "prior": 0.3704955867258832,
+   "patience": 428,
+   "resilience": 3,
+   "habit": "plays with every slider",
+   "phone": "Android",
+   "width": 320,
+   "style": {
+    "units": true,
+    "commas": false,
+    "xEquals": true,
+    "roundsEarly": true,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": true,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 63,
+   "unfair": 0
+  },
+  {
+   "id": 35,
+   "name": "Ishara",
+   "country": "Sri Lanka",
+   "age": 15,
+   "interest": "building",
+   "subject": "physics",
+   "english": 1,
+   "prior": 0.6445743608288468,
+   "patience": 60,
+   "resilience": 4,
+   "habit": "studies late at night, tired",
+   "phone": "Android",
+   "width": 412,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": true,
+    "roundsEarly": false,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": true
+   },
+   "lessons": 0,
+   "quit": true,
+   "accuracy": 25,
+   "unfair": 0
+  },
+  {
+   "id": 36,
+   "name": "Kamau",
+   "country": "Kenya",
+   "age": 16,
+   "interest": "maps",
+   "subject": "geography",
+   "english": 2,
+   "prior": 0.525101525359787,
+   "patience": 183,
+   "resilience": 2,
+   "habit": "repeats until perfect",
+   "phone": "shared family Android",
+   "width": 320,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": true,
+    "roundsEarly": false,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 5,
+   "quit": false,
+   "accuracy": 55,
+   "unfair": 0
+  },
+  {
+   "id": 37,
+   "name": "Ngozi",
+   "country": "Nigeria",
+   "age": 15,
+   "interest": "doctors",
+   "subject": "biology",
+   "english": 2,
+   "prior": 0.07720087715424598,
+   "patience": 261,
+   "resilience": 1,
+   "habit": "reads every word",
+   "phone": "shared family Android",
+   "width": 393,
+   "style": {
+    "units": true,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": true,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 0,
+   "quit": true,
+   "accuracy": 17,
+   "unfair": 0
+  },
+  {
+   "id": 38,
+   "name": "Anjali",
+   "country": "Nepal",
+   "age": 16,
+   "interest": "music",
+   "subject": "english",
+   "english": 4,
+   "prior": 0.7202092258026824,
+   "patience": 292,
+   "resilience": 2,
+   "habit": "gives up when stuck",
+   "phone": "iPhone",
+   "width": 393,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": true,
+    "fullSentence": false
+   },
+   "lessons": 3,
+   "quit": false,
+   "accuracy": 58,
+   "unfair": 0
+  },
+  {
+   "id": 39,
+   "name": "Tendai",
+   "country": "Zimbabwe",
+   "age": 14,
+   "interest": "building",
+   "subject": "physics",
+   "english": 4,
+   "prior": 0.6681275447830558,
+   "patience": 443,
+   "resilience": 3,
+   "habit": "rushes and guesses",
+   "phone": "Android",
+   "width": 412,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 0,
+   "quit": true,
+   "accuracy": 17,
+   "unfair": 2
+  },
+  {
+   "id": 40,
+   "name": "Emeka",
+   "country": "Nigeria",
+   "age": 14,
+   "interest": "nature",
+   "subject": "biology",
+   "english": 3,
+   "prior": 0.4033742628293112,
+   "patience": 107,
+   "resilience": 2,
+   "habit": "studies late at night, tired",
+   "phone": "Android",
+   "width": 412,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": true,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 1,
+   "quit": true,
+   "accuracy": 50,
+   "unfair": 0
+  },
+  {
+   "id": 41,
+   "name": "Nimal",
+   "country": "Sri Lanka",
+   "age": 15,
+   "interest": "stories",
+   "subject": "history",
+   "english": 4,
+   "prior": 0.9093443309422583,
+   "patience": 342,
+   "resilience": 2,
+   "habit": "studies late at night, tired",
+   "phone": "Android",
+   "width": 393,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": true,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 90,
+   "unfair": 0
+  },
+  {
+   "id": 42,
+   "name": "Sneha",
+   "country": "India",
+   "age": 15,
+   "interest": "building",
+   "subject": "addmath",
+   "english": 1,
+   "prior": 0.6143563289893792,
+   "patience": 295,
+   "resilience": 4,
+   "habit": "jumps to the questions",
+   "phone": "shared family Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": true,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 4,
+   "quit": true,
+   "accuracy": 41,
+   "unfair": 0
+  },
+  {
+   "id": 43,
+   "name": "Rahul",
+   "country": "India",
+   "age": 15,
+   "interest": "phones",
+   "subject": "computing",
+   "english": 3,
+   "prior": 0.38766077244654296,
+   "patience": 242,
+   "resilience": 5,
+   "habit": "rushes and guesses",
+   "phone": "Android",
+   "width": 320,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": true,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 3,
+   "quit": true,
+   "accuracy": 23,
+   "unfair": 0
+  },
+  {
+   "id": 44,
+   "name": "Hira",
+   "country": "Pakistan",
+   "age": 14,
+   "interest": "music",
+   "subject": "english",
+   "english": 3,
+   "prior": 0.8825166573980824,
+   "patience": 327,
+   "resilience": 4,
+   "habit": "reads every word",
+   "phone": "iPhone",
+   "width": 393,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 77,
+   "unfair": 0
+  },
+  {
+   "id": 45,
+   "name": "Arjun",
+   "country": "India",
+   "age": 16,
+   "interest": "money",
+   "subject": "addmath",
+   "english": 2,
+   "prior": 0.6768627673853189,
+   "patience": 264,
+   "resilience": 2,
+   "habit": "skims the text",
+   "phone": "Android",
+   "width": 320,
+   "style": {
+    "units": true,
+    "commas": false,
+    "xEquals": true,
+    "roundsEarly": true,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 81,
+   "unfair": 0
+  },
+  {
+   "id": 46,
+   "name": "Ali",
+   "country": "Pakistan",
+   "age": 15,
+   "interest": "games",
+   "subject": "computing",
+   "english": 5,
+   "prior": 0.44372380634304137,
+   "patience": 251,
+   "resilience": 1,
+   "habit": "repeats until perfect",
+   "phone": "iPhone",
+   "width": 320,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": true,
+    "roundsEarly": true,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 5,
+   "quit": false,
+   "accuracy": 65,
+   "unfair": 0
+  },
+  {
+   "id": 47,
+   "name": "Amina",
+   "country": "Refugee camp",
+   "age": 15,
+   "interest": "games",
+   "subject": "math",
+   "english": 1,
+   "prior": 0.5070914434269072,
+   "patience": 434,
+   "resilience": 5,
+   "habit": "plays with every slider",
+   "phone": "Android",
+   "width": 412,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 85,
+   "unfair": 3
+  },
+  {
+   "id": 48,
+   "name": "Arif",
+   "country": "Bangladesh",
+   "age": 14,
+   "interest": "money",
+   "subject": "addmath",
+   "english": 4,
+   "prior": 0.514597395551391,
+   "patience": 145,
+   "resilience": 4,
+   "habit": "jumps to the questions",
+   "phone": "Android",
+   "width": 320,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 65,
+   "unfair": 0
+  },
+  {
+   "id": 49,
+   "name": "Fatima",
+   "country": "Pakistan",
+   "age": 15,
+   "interest": "doctors",
+   "subject": "chemistry",
+   "english": 4,
+   "prior": 0.5207110385876149,
+   "patience": 150,
+   "resilience": 1,
+   "habit": "skims the text",
+   "phone": "shared family Android",
+   "width": 320,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 5,
+   "quit": true,
+   "accuracy": 71,
+   "unfair": 0
+  },
+  {
+   "id": 50,
+   "name": "Ishara",
+   "country": "Sri Lanka",
+   "age": 14,
+   "interest": "music",
+   "subject": "english",
+   "english": 1,
+   "prior": 0.8471732902107761,
+   "patience": 97,
+   "resilience": 2,
+   "habit": "plays with every slider",
+   "phone": "Android",
+   "width": 393,
+   "style": {
+    "units": true,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 71,
+   "unfair": 0
+  },
+  {
+   "id": 51,
+   "name": "Hira",
+   "country": "Pakistan",
+   "age": 16,
+   "interest": "games",
+   "subject": "math",
+   "english": 1,
+   "prior": 0.596288815047592,
+   "patience": 149,
+   "resilience": 4,
+   "habit": "reads every word",
+   "phone": "iPhone",
+   "width": 393,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 67,
+   "unfair": 1
+  },
+  {
+   "id": 52,
+   "name": "Yusuf",
+   "country": "Refugee camp",
+   "age": 16,
+   "interest": "building",
+   "subject": "addmath",
+   "english": 1,
+   "prior": 0.5234102908871137,
+   "patience": 237,
+   "resilience": 1,
+   "habit": "plays with every slider",
+   "phone": "Android",
+   "width": 412,
+   "style": {
+    "units": true,
+    "commas": false,
+    "xEquals": true,
+    "roundsEarly": true,
+    "sciNotation": false,
+    "fractionAsDecimal": true,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 1,
+   "quit": true,
+   "accuracy": 63,
+   "unfair": 0
+  },
+  {
+   "id": 53,
+   "name": "Rahul",
+   "country": "India",
+   "age": 16,
+   "interest": "cars",
+   "subject": "math",
+   "english": 5,
+   "prior": 0.7650002008769662,
+   "patience": 158,
+   "resilience": 1,
+   "habit": "reads every word",
+   "phone": "iPhone",
+   "width": 393,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": true,
+    "enDash": false,
+    "fullSentence": true
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 83,
+   "unfair": 2
+  },
+  {
+   "id": 54,
+   "name": "Ali",
+   "country": "Pakistan",
+   "age": 15,
+   "interest": "doctors",
+   "subject": "chemistry",
+   "english": 1,
+   "prior": 0.3552385473391041,
+   "patience": 240,
+   "resilience": 2,
+   "habit": "repeats until perfect",
+   "phone": "Android",
+   "width": 320,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 5,
+   "quit": false,
+   "accuracy": 68,
+   "unfair": 0
+  },
+  {
+   "id": 55,
+   "name": "Mim",
+   "country": "Bangladesh",
+   "age": 16,
+   "interest": "building",
+   "subject": "physics",
+   "english": 2,
+   "prior": 0.7040082694962622,
+   "patience": 205,
+   "resilience": 4,
+   "habit": "plays with every slider",
+   "phone": "Android",
+   "width": 320,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": true,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 88,
+   "unfair": 1
+  },
+  {
+   "id": 56,
+   "name": "Ishara",
+   "country": "Sri Lanka",
+   "age": 14,
+   "interest": "cars",
+   "subject": "physics",
+   "english": 1,
+   "prior": 0.13157443285454065,
+   "patience": 413,
+   "resilience": 5,
+   "habit": "skims the text",
+   "phone": "shared family Android",
+   "width": 412,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 54,
+   "unfair": 0
+  },
+  {
+   "id": 57,
+   "name": "Chiamaka",
+   "country": "Nigeria",
+   "age": 14,
+   "interest": "phones",
+   "subject": "computing",
+   "english": 5,
+   "prior": 0.8512443409767002,
+   "patience": 215,
+   "resilience": 5,
+   "habit": "jumps to the questions",
+   "phone": "Android",
+   "width": 320,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": true,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 73,
+   "unfair": 0
+  },
+  {
+   "id": 58,
+   "name": "Bilal",
+   "country": "Pakistan",
+   "age": 14,
+   "interest": "cars",
+   "subject": "physics",
+   "english": 3,
+   "prior": 0.6564767972333357,
+   "patience": 150,
+   "resilience": 3,
+   "habit": "jumps to the questions",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 58,
+   "unfair": 0
+  },
+  {
+   "id": 59,
+   "name": "Nyasha",
+   "country": "Zimbabwe",
+   "age": 15,
+   "interest": "games",
+   "subject": "computing",
+   "english": 5,
+   "prior": 0.6927475740201772,
+   "patience": 68,
+   "resilience": 5,
+   "habit": "studies late at night, tired",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": true,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": true,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 58,
+   "unfair": 0
+  },
+  {
+   "id": 60,
+   "name": "Aisha",
+   "country": "Nigeria",
+   "age": 14,
+   "interest": "phones",
+   "subject": "physics",
+   "english": 4,
+   "prior": 0.2438155787298456,
+   "patience": 366,
+   "resilience": 4,
+   "habit": "gives up when stuck",
+   "phone": "Android",
+   "width": 393,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 3,
+   "quit": false,
+   "accuracy": 71,
+   "unfair": 0
+  },
+  {
+   "id": 61,
+   "name": "Farai",
+   "country": "Zimbabwe",
+   "age": 14,
+   "interest": "maps",
+   "subject": "geography",
+   "english": 3,
+   "prior": 0.11372068342752756,
+   "patience": 408,
+   "resilience": 2,
+   "habit": "jumps to the questions",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": true,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 0,
+   "quit": true,
+   "accuracy": 14,
+   "unfair": 0
+  },
+  {
+   "id": 62,
+   "name": "Emeka",
+   "country": "Nigeria",
+   "age": 16,
+   "interest": "phones",
+   "subject": "computing",
+   "english": 4,
+   "prior": 0.7975114367669449,
+   "patience": 409,
+   "resilience": 3,
+   "habit": "jumps to the questions",
+   "phone": "Android",
+   "width": 393,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": true,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 0,
+   "quit": true,
+   "accuracy": 25,
+   "unfair": 1
+  },
+  {
+   "id": 63,
+   "name": "Tania",
+   "country": "Bangladesh",
+   "age": 16,
+   "interest": "stories",
+   "subject": "english",
+   "english": 3,
+   "prior": 0.31953957602381705,
+   "patience": 137,
+   "resilience": 5,
+   "habit": "skims the text",
+   "phone": "Android",
+   "width": 412,
+   "style": {
+    "units": true,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": false,
+    "fractionAsDecimal": true,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": true,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 63,
+   "unfair": 0
+  },
+  {
+   "id": 64,
+   "name": "Nimal",
+   "country": "Sri Lanka",
+   "age": 16,
+   "interest": "football",
+   "subject": "math",
+   "english": 3,
+   "prior": 0.7040045858593659,
+   "patience": 280,
+   "resilience": 2,
+   "habit": "studies late at night, tired",
+   "phone": "shared family Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": true,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 4,
+   "quit": true,
+   "accuracy": 69,
+   "unfair": 0
+  },
+  {
+   "id": 65,
+   "name": "Aisha",
+   "country": "Nigeria",
+   "age": 14,
+   "interest": "maps",
+   "subject": "history",
+   "english": 1,
+   "prior": 0.11313047925941647,
+   "patience": 181,
+   "resilience": 2,
+   "habit": "rushes and guesses",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": true,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": true,
+    "fractionAsDecimal": true,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 3,
+   "quit": true,
+   "accuracy": 35,
+   "unfair": 0
+  },
+  {
+   "id": 66,
+   "name": "Nimal",
+   "country": "Sri Lanka",
+   "age": 14,
+   "interest": "cars",
+   "subject": "physics",
+   "english": 2,
+   "prior": 0.5527036710409449,
+   "patience": 344,
+   "resilience": 2,
+   "habit": "skims the text",
+   "phone": "shared family Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": true,
+    "fractionAsDecimal": true,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": true,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 3,
+   "quit": true,
+   "accuracy": 72,
+   "unfair": 0
+  },
+  {
+   "id": 67,
+   "name": "Sita",
+   "country": "Nepal",
+   "age": 16,
+   "interest": "games",
+   "subject": "math",
+   "english": 1,
+   "prior": 0.7007726679556072,
+   "patience": 143,
+   "resilience": 4,
+   "habit": "studies late at night, tired",
+   "phone": "shared family Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 69,
+   "unfair": 0
+  },
+  {
+   "id": 68,
+   "name": "Ayesha",
+   "country": "Pakistan",
+   "age": 15,
+   "interest": "phones",
+   "subject": "physics",
+   "english": 4,
+   "prior": 0.4802520871395245,
+   "patience": 267,
+   "resilience": 3,
+   "habit": "studies late at night, tired",
+   "phone": "Android",
+   "width": 412,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 63,
+   "unfair": 2
+  },
+  {
+   "id": 69,
+   "name": "Tunde",
+   "country": "Nigeria",
+   "age": 16,
+   "interest": "phones",
+   "subject": "computing",
+   "english": 2,
+   "prior": 0.470748175913468,
+   "patience": 179,
+   "resilience": 5,
+   "habit": "repeats until perfect",
+   "phone": "Android",
+   "width": 412,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 5,
+   "quit": false,
+   "accuracy": 75,
+   "unfair": 0
+  },
+  {
+   "id": 70,
+   "name": "Rafi",
+   "country": "Bangladesh",
+   "age": 15,
+   "interest": "doctors",
+   "subject": "biology",
+   "english": 3,
+   "prior": 0.12439055049326271,
+   "patience": 257,
+   "resilience": 5,
+   "habit": "jumps to the questions",
+   "phone": "Android",
+   "width": 393,
+   "style": {
+    "units": true,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 33,
+   "unfair": 0
+  },
+  {
+   "id": 71,
+   "name": "Ishara",
+   "country": "Sri Lanka",
+   "age": 15,
+   "interest": "football",
+   "subject": "math",
+   "english": 1,
+   "prior": 0.7795919103547931,
+   "patience": 143,
+   "resilience": 5,
+   "habit": "rushes and guesses",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": true,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": true
+   },
+   "lessons": 3,
+   "quit": true,
+   "accuracy": 33,
+   "unfair": 0
+  },
+  {
+   "id": 72,
+   "name": "Fatima",
+   "country": "Pakistan",
+   "age": 16,
+   "interest": "cars",
+   "subject": "math",
+   "english": 2,
+   "prior": 0.22797988795209678,
+   "patience": 97,
+   "resilience": 2,
+   "habit": "gives up when stuck",
+   "phone": "iPhone",
+   "width": 360,
+   "style": {
+    "units": true,
+    "commas": false,
+    "xEquals": true,
+    "roundsEarly": false,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 1,
+   "quit": true,
+   "accuracy": 25,
+   "unfair": 1
+  },
+  {
+   "id": 73,
+   "name": "Hira",
+   "country": "Pakistan",
+   "age": 16,
+   "interest": "games",
+   "subject": "computing",
+   "english": 2,
+   "prior": 0.17024636841379107,
+   "patience": 281,
+   "resilience": 3,
+   "habit": "plays with every slider",
+   "phone": "shared family Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": true,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": true,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": true
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 77,
+   "unfair": 0
+  },
+  {
+   "id": 74,
+   "name": "Yusuf",
+   "country": "Refugee camp",
+   "age": 15,
+   "interest": "football",
+   "subject": "physics",
+   "english": 1,
+   "prior": 0.42254978093551476,
+   "patience": 171,
+   "resilience": 1,
+   "habit": "plays with every slider",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": true,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": true,
+    "fractionAsDecimal": true,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": true,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 0,
+   "quit": true,
+   "accuracy": 33,
+   "unfair": 0
+  },
+  {
+   "id": 75,
+   "name": "Emeka",
+   "country": "Nigeria",
+   "age": 16,
+   "interest": "phones",
+   "subject": "computing",
+   "english": 2,
+   "prior": 0.2664446861483157,
+   "patience": 328,
+   "resilience": 2,
+   "habit": "skims the text",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 58,
+   "unfair": 0
+  },
+  {
+   "id": 76,
+   "name": "Zainab",
+   "country": "Pakistan",
+   "age": 14,
+   "interest": "doctors",
+   "subject": "chemistry",
+   "english": 3,
+   "prior": 0.27057892514858395,
+   "patience": 392,
+   "resilience": 1,
+   "habit": "skims the text",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": true,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": true,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 0,
+   "quit": true,
+   "accuracy": 25,
+   "unfair": 0
+  },
+  {
+   "id": 77,
+   "name": "Sakib",
+   "country": "Bangladesh",
+   "age": 16,
+   "interest": "building",
+   "subject": "addmath",
+   "english": 3,
+   "prior": 0.31938403178937735,
+   "patience": 267,
+   "resilience": 4,
+   "habit": "repeats until perfect",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": true,
+    "roundsEarly": true,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 5,
+   "quit": false,
+   "accuracy": 60,
+   "unfair": 0
+  },
+  {
+   "id": 78,
+   "name": "Otieno",
+   "country": "Kenya",
+   "age": 14,
+   "interest": "football",
+   "subject": "math",
+   "english": 3,
+   "prior": 0.394368739775382,
+   "patience": 321,
+   "resilience": 3,
+   "habit": "gives up when stuck",
+   "phone": "shared family Android",
+   "width": 320,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": true,
+    "roundsEarly": true,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": true
+   },
+   "lessons": 2,
+   "quit": true,
+   "accuracy": 35,
+   "unfair": 0
+  },
+  {
+   "id": 79,
+   "name": "Tendai",
+   "country": "Zimbabwe",
+   "age": 15,
+   "interest": "games",
+   "subject": "math",
+   "english": 4,
+   "prior": 0.6574583861976863,
+   "patience": 318,
+   "resilience": 3,
+   "habit": "plays with every slider",
+   "phone": "Android",
+   "width": 412,
+   "style": {
+    "units": true,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": true,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": true
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 85,
+   "unfair": 0
+  },
+  {
+   "id": 80,
+   "name": "Ishara",
+   "country": "Sri Lanka",
+   "age": 16,
+   "interest": "nature",
+   "subject": "geography",
+   "english": 1,
+   "prior": 0.4723523822845891,
+   "patience": 154,
+   "resilience": 5,
+   "habit": "rushes and guesses",
+   "phone": "Android",
+   "width": 393,
+   "style": {
+    "units": true,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": true
+   },
+   "lessons": 2,
+   "quit": true,
+   "accuracy": 35,
+   "unfair": 0
+  },
+  {
+   "id": 81,
+   "name": "Sakib",
+   "country": "Bangladesh",
+   "age": 15,
+   "interest": "games",
+   "subject": "math",
+   "english": 4,
+   "prior": 0.08874553474597632,
+   "patience": 70,
+   "resilience": 3,
+   "habit": "rushes and guesses",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 0,
+   "quit": true,
+   "accuracy": 29,
+   "unfair": 0
+  },
+  {
+   "id": 82,
+   "name": "Otieno",
+   "country": "Kenya",
+   "age": 14,
+   "interest": "money",
+   "subject": "addmath",
+   "english": 4,
+   "prior": 0.36103539864998313,
+   "patience": 286,
+   "resilience": 4,
+   "habit": "skims the text",
+   "phone": "Android",
+   "width": 393,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": true,
+    "fractionAsDecimal": true,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": true
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 81,
+   "unfair": 0
+  },
+  {
+   "id": 83,
+   "name": "Hassan",
+   "country": "Refugee camp",
+   "age": 15,
+   "interest": "phones",
+   "subject": "physics",
+   "english": 2,
+   "prior": 0.4229841048363596,
+   "patience": 348,
+   "resilience": 3,
+   "habit": "rushes and guesses",
+   "phone": "iPhone",
+   "width": 412,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": true,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 1,
+   "quit": true,
+   "accuracy": 27,
+   "unfair": 0
+  },
+  {
+   "id": 84,
+   "name": "Ishara",
+   "country": "Sri Lanka",
+   "age": 15,
+   "interest": "cooking",
+   "subject": "biology",
+   "english": 1,
+   "prior": 0.30218146110419186,
+   "patience": 397,
+   "resilience": 1,
+   "habit": "jumps to the questions",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 1,
+   "quit": true,
+   "accuracy": 33,
+   "unfair": 0
+  },
+  {
+   "id": 85,
+   "name": "Arjun",
+   "country": "India",
+   "age": 16,
+   "interest": "cooking",
+   "subject": "biology",
+   "english": 5,
+   "prior": 0.2697179345879704,
+   "patience": 241,
+   "resilience": 5,
+   "habit": "reads every word",
+   "phone": "Android",
+   "width": 320,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": true,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 77,
+   "unfair": 0
+  },
+  {
+   "id": 86,
+   "name": "Ali",
+   "country": "Pakistan",
+   "age": 16,
+   "interest": "nature",
+   "subject": "biology",
+   "english": 3,
+   "prior": 0.5203883187612519,
+   "patience": 206,
+   "resilience": 1,
+   "habit": "jumps to the questions",
+   "phone": "shared family Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": true,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 0,
+   "quit": true,
+   "accuracy": 0,
+   "unfair": 0
+  },
+  {
+   "id": 87,
+   "name": "Tania",
+   "country": "Bangladesh",
+   "age": 16,
+   "interest": "games",
+   "subject": "math",
+   "english": 2,
+   "prior": 0.5824684942141176,
+   "patience": 430,
+   "resilience": 4,
+   "habit": "plays with every slider",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 83,
+   "unfair": 3
+  },
+  {
+   "id": 88,
+   "name": "Kasun",
+   "country": "Sri Lanka",
+   "age": 14,
+   "interest": "games",
+   "subject": "computing",
+   "english": 1,
+   "prior": 0.3113513092743233,
+   "patience": 149,
+   "resilience": 4,
+   "habit": "studies late at night, tired",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 40,
+   "unfair": 0
+  },
+  {
+   "id": 89,
+   "name": "Priya",
+   "country": "India",
+   "age": 15,
+   "interest": "cooking",
+   "subject": "chemistry",
+   "english": 4,
+   "prior": 0.3188940533902496,
+   "patience": 187,
+   "resilience": 1,
+   "habit": "plays with every slider",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": true,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 71,
+   "unfair": 0
+  },
+  {
+   "id": 90,
+   "name": "Yusuf",
+   "country": "Refugee camp",
+   "age": 14,
+   "interest": "cooking",
+   "subject": "biology",
+   "english": 3,
+   "prior": 0.4494610599358566,
+   "patience": 387,
+   "resilience": 2,
+   "habit": "reads every word",
+   "phone": "Android",
+   "width": 393,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": true,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": true,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 63,
+   "unfair": 0
+  },
+  {
+   "id": 91,
+   "name": "Mariam",
+   "country": "Refugee camp",
+   "age": 16,
+   "interest": "phones",
+   "subject": "physics",
+   "english": 3,
+   "prior": 0.4844494800549001,
+   "patience": 96,
+   "resilience": 3,
+   "habit": "rushes and guesses",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": true,
+    "fractionAsDecimal": true,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": true,
+    "fullSentence": false
+   },
+   "lessons": 1,
+   "quit": true,
+   "accuracy": 11,
+   "unfair": 0
+  },
+  {
+   "id": 92,
+   "name": "Rudo",
+   "country": "Zimbabwe",
+   "age": 16,
+   "interest": "cars",
+   "subject": "physics",
+   "english": 4,
+   "prior": 0.17397460436914117,
+   "patience": 389,
+   "resilience": 5,
+   "habit": "reads every word",
+   "phone": "shared family Android",
+   "width": 320,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": false,
+    "fractionAsDecimal": true,
+    "capitals": false,
+    "plural": true,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 58,
+   "unfair": 2
+  },
+  {
+   "id": 93,
+   "name": "Ngozi",
+   "country": "Nigeria",
+   "age": 16,
+   "interest": "building",
+   "subject": "physics",
+   "english": 1,
+   "prior": 0.18108883542008697,
+   "patience": 218,
+   "resilience": 5,
+   "habit": "plays with every slider",
+   "phone": "Android",
+   "width": 320,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": true,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": true,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": true
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 48,
+   "unfair": 1
+  },
+  {
+   "id": 94,
+   "name": "Kavya",
+   "country": "India",
+   "age": 15,
+   "interest": "phones",
+   "subject": "physics",
+   "english": 4,
+   "prior": 0.2758957519894466,
+   "patience": 121,
+   "resilience": 3,
+   "habit": "reads every word",
+   "phone": "Android",
+   "width": 393,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 63,
+   "unfair": 0
+  },
+  {
+   "id": 95,
+   "name": "Wanjiru",
+   "country": "Kenya",
+   "age": 14,
+   "interest": "stories",
+   "subject": "history",
+   "english": 3,
+   "prior": 0.9390115395188332,
+   "patience": 213,
+   "resilience": 4,
+   "habit": "skims the text",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 92,
+   "unfair": 0
+  },
+  {
+   "id": 96,
+   "name": "Tendai",
+   "country": "Zimbabwe",
+   "age": 15,
+   "interest": "money",
+   "subject": "addmath",
+   "english": 4,
+   "prior": 0.36345029410440477,
+   "patience": 399,
+   "resilience": 4,
+   "habit": "jumps to the questions",
+   "phone": "iPhone",
+   "width": 393,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": true,
+    "capitals": true,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 54,
+   "unfair": 0
+  },
+  {
+   "id": 97,
+   "name": "Farai",
+   "country": "Zimbabwe",
+   "age": 14,
+   "interest": "cars",
+   "subject": "physics",
+   "english": 4,
+   "prior": 0.40815648580901326,
+   "patience": 343,
+   "resilience": 3,
+   "habit": "jumps to the questions",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 44,
+   "unfair": 0
+  },
+  {
+   "id": 98,
+   "name": "Nyasha",
+   "country": "Zimbabwe",
+   "age": 14,
+   "interest": "money",
+   "subject": "addmath",
+   "english": 3,
+   "prior": 0.5563710487214849,
+   "patience": 229,
+   "resilience": 5,
+   "habit": "reads every word",
+   "phone": "Android",
+   "width": 360,
+   "style": {
+    "units": false,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 6,
+   "quit": false,
+   "accuracy": 75,
+   "unfair": 0
+  },
+  {
+   "id": 99,
+   "name": "Tania",
+   "country": "Bangladesh",
+   "age": 14,
+   "interest": "doctors",
+   "subject": "chemistry",
+   "english": 2,
+   "prior": 0.5191899272613227,
+   "patience": 449,
+   "resilience": 1,
+   "habit": "reads every word",
+   "phone": "Android",
+   "width": 320,
+   "style": {
+    "units": true,
+    "commas": true,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": false,
+    "capitals": false,
+    "plural": false,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 2,
+   "quit": true,
+   "accuracy": 68,
+   "unfair": 0
+  },
+  {
+   "id": 100,
+   "name": "Chiamaka",
+   "country": "Nigeria",
+   "age": 16,
+   "interest": "building",
+   "subject": "addmath",
+   "english": 1,
+   "prior": 0.3633949928218499,
+   "patience": 287,
+   "resilience": 2,
+   "habit": "jumps to the questions",
+   "phone": "iPhone",
+   "width": 320,
+   "style": {
+    "units": false,
+    "commas": false,
+    "xEquals": false,
+    "roundsEarly": false,
+    "sciNotation": false,
+    "fractionAsDecimal": true,
+    "capitals": true,
+    "plural": true,
+    "americanSpelling": false,
+    "enDash": false,
+    "fullSentence": false
+   },
+   "lessons": 0,
+   "quit": true,
+   "accuracy": 0,
+   "unfair": 0
+  }
+ ],
+ "falseNeg": {
+  "rounded to 1 d.p. (as in science exams)": {
+   "n": 9,
+   "ex": [
+    "physics · phAvg: typed \"0.3\", expected 0.25 cm",
+    "physics · phAvg: typed \"0.1\", expected 0.08 cm",
+    "physics · phAvg: typed \"0.1\", expected 0.08 cm",
+    "physics · phAvg: typed \"0.1\", expected 0.05 cm"
+   ]
+  },
+  "rounded to 2 s.f.": {
+   "n": 7,
+   "ex": [
+    "math · picPizza: typed \"0.88\", expected 0.875",
+    "math · fracShade: typed \"0.33\", expected 0.333333",
+    "math · fracShade: typed \"0.38\", expected 0.375",
+    "math · picPizza: typed \"0.63\", expected 0.625"
+   ]
+  },
+  "typed plainly": {
+   "n": 1,
+   "ex": [
+    "math · decTimes10: typed \"0.339\", expected 0.3388"
+   ]
+  },
+  "plural/singular": {
+   "n": 1,
+   "ex": [
+    "computing · csHex: typed \"1Ds\", expected \"1D\""
+   ]
+  },
+  "standard form": {
+   "n": 2,
+   "ex": [
+    "math · pvDigit: typed \"8 × 10^5\", expected 800000",
+    "math · decTimes10: typed \"3.36 × 10^5\", expected 336200"
+   ]
+  }
+ },
+ "keypad": {},
+ "hardRead": {
+  "addmath|am-quadratics": {
+   "n": 4,
+   "ex": [
+    "Otieno (Kenya, English 1/5): reading grade ≈ 7.5",
+    "Sneha (India, English 1/5): reading grade ≈ 7.5",
+    "Arjun (India, English 2/5): reading grade ≈ 7.5",
+    "Yusuf (Refugee camp, English 1/5): reading grade ≈ 7.5"
+   ]
+  },
+  "biology|bi-cells": {
+   "n": 4,
+   "ex": [
+    "Yusuf (Refugee camp, English 2/5): reading grade ≈ 8.6",
+    "Yusuf (Refugee camp, English 1/5): reading grade ≈ 8.6",
+    "Ngozi (Nigeria, English 2/5): reading grade ≈ 8.6",
+    "Ishara (Sri Lanka, English 1/5): reading grade ≈ 8.6"
+   ]
+  },
+  "biology|bi-classify": {
+   "n": 7,
+   "ex": [
+    "Yusuf (Refugee camp, English 2/5): reading grade ≈ 11.4",
+    "Mariam (Refugee camp, English 3/5): reading grade ≈ 11.4",
+    "Ngozi (Nigeria, English 4/5): reading grade ≈ 11.4",
+    "Yusuf (Refugee camp, English 1/5): reading grade ≈ 11.4"
+   ]
+  },
+  "biology|bi-diffusion": {
+   "n": 6,
+   "ex": [
+    "Yusuf (Refugee camp, English 2/5): reading grade ≈ 11.3",
+    "Mariam (Refugee camp, English 3/5): reading grade ≈ 11.3",
+    "Ngozi (Nigeria, English 4/5): reading grade ≈ 11.3",
+    "Yusuf (Refugee camp, English 1/5): reading grade ≈ 11.3"
+   ]
+  },
+  "geography|ge-ecosystems": {
+   "n": 7,
+   "ex": [
+    "Anjali (Nepal, English 4/5): reading grade ≈ 11.6",
+    "Bikash (Nepal, English 3/5): reading grade ≈ 11.6",
+    "Kavya (India, English 3/5): reading grade ≈ 11.6",
+    "Chiamaka (Nigeria, English 3/5): reading grade ≈ 11.6"
+   ]
+  },
+  "geography|ge-rivers": {
+   "n": 8,
+   "ex": [
+    "Bikash (Nepal, English 3/5): reading grade ≈ 9.8",
+    "Kavya (India, English 3/5): reading grade ≈ 9.8",
+    "Chiamaka (Nigeria, English 3/5): reading grade ≈ 9.8",
+    "Sakib (Bangladesh, English 3/5): reading grade ≈ 9.8"
+   ]
+  },
+  "geography|ge-floods": {
+   "n": 7,
+   "ex": [
+    "Bikash (Nepal, English 3/5): reading grade ≈ 9.0",
+    "Kavya (India, English 3/5): reading grade ≈ 9.0",
+    "Chiamaka (Nigeria, English 3/5): reading grade ≈ 9.0",
+    "Sakib (Bangladesh, English 3/5): reading grade ≈ 9.0"
+   ]
+  },
+  "geography|ge-coasthaz": {
+   "n": 6,
+   "ex": [
+    "Bikash (Nepal, English 3/5): reading grade ≈ 10.3",
+    "Kavya (India, English 3/5): reading grade ≈ 10.3",
+    "Chiamaka (Nigeria, English 3/5): reading grade ≈ 10.3",
+    "Sakib (Bangladesh, English 3/5): reading grade ≈ 10.3"
+   ]
+  },
+  "physics|ph-measure": {
+   "n": 5,
+   "ex": [
+    "Yusuf (Refugee camp, English 1/5): reading grade ≈ 6.0",
+    "Ishara (Sri Lanka, English 1/5): reading grade ≈ 6.0",
+    "Ishara (Sri Lanka, English 1/5): reading grade ≈ 6.0",
+    "Yusuf (Refugee camp, English 1/5): reading grade ≈ 6.0"
+   ]
+  },
+  "physics|ph-speed": {
+   "n": 3,
+   "ex": [
+    "Yusuf (Refugee camp, English 1/5): reading grade ≈ 6.0",
+    "Ishara (Sri Lanka, English 1/5): reading grade ≈ 6.0",
+    "Ngozi (Nigeria, English 1/5): reading grade ≈ 6.0"
+   ]
+  },
+  "physics|ph-graphs": {
+   "n": 5,
+   "ex": [
+    "Yusuf (Refugee camp, English 1/5): reading grade ≈ 7.8",
+    "Mim (Bangladesh, English 2/5): reading grade ≈ 7.8",
+    "Ishara (Sri Lanka, English 1/5): reading grade ≈ 7.8",
+    "Nimal (Sri Lanka, English 2/5): reading grade ≈ 7.8"
+   ]
+  },
+  "history|hi-causes": {
+   "n": 3,
+   "ex": [
+    "Yusuf (Refugee camp, English 1/5): reading grade ≈ 7.3",
+    "Bikash (Nepal, English 1/5): reading grade ≈ 7.3",
+    "Aisha (Nigeria, English 1/5): reading grade ≈ 7.3"
+   ]
+  },
+  "history|hi-sources": {
+   "n": 3,
+   "ex": [
+    "Yusuf (Refugee camp, English 1/5): reading grade ≈ 6.3",
+    "Bikash (Nepal, English 1/5): reading grade ≈ 6.3",
+    "Aisha (Nigeria, English 1/5): reading grade ≈ 6.3"
+   ]
+  },
+  "geography|ge-tectonics": {
+   "n": 2,
+   "ex": [
+    "Kavya (India, English 3/5): reading grade ≈ 9.1",
+    "Chiamaka (Nigeria, English 3/5): reading grade ≈ 9.1"
+   ]
+  },
+  "english|en-explicit": {
+   "n": 2,
+   "ex": [
+    "Anjali (Nepal, English 1/5): reading grade ≈ 7.9",
+    "Ishara (Sri Lanka, English 1/5): reading grade ≈ 7.9"
+   ]
+  },
+  "computing|cs-binary": {
+   "n": 2,
+   "ex": [
+    "Bikash (Nepal, English 1/5): reading grade ≈ 5.7",
+    "Kasun (Sri Lanka, English 1/5): reading grade ≈ 5.7"
+   ]
+  },
+  "computing|cs-binarith": {
+   "n": 2,
+   "ex": [
+    "Bikash (Nepal, English 1/5): reading grade ≈ 6.6",
+    "Kasun (Sri Lanka, English 1/5): reading grade ≈ 6.6"
+   ]
+  },
+  "computing|cs-media": {
+   "n": 2,
+   "ex": [
+    "Bikash (Nepal, English 1/5): reading grade ≈ 6.5",
+    "Kasun (Sri Lanka, English 1/5): reading grade ≈ 6.5"
+   ]
+  },
+  "biology|bi-specialised": {
+   "n": 2,
+   "ex": [
+    "Yusuf (Refugee camp, English 1/5): reading grade ≈ 6.6",
+    "Ishara (Sri Lanka, English 1/5): reading grade ≈ 6.6"
+   ]
+  },
+  "biology|bi-molecules": {
+   "n": 3,
+   "ex": [
+    "Yusuf (Refugee camp, English 1/5): reading grade ≈ 10.0",
+    "Rafi (Bangladesh, English 3/5): reading grade ≈ 10.0",
+    "Yusuf (Refugee camp, English 3/5): reading grade ≈ 10.0"
+   ]
+  },
+  "biology|bi-enzymes": {
+   "n": 1,
+   "ex": [
+    "Yusuf (Refugee camp, English 1/5): reading grade ≈ 7.8"
+   ]
+  },
+  "computing|cs-transmission": {
+   "n": 5,
+   "ex": [
+    "Mariam (Refugee camp, English 2/5): reading grade ≈ 9.4",
+    "Tunde (Nigeria, English 2/5): reading grade ≈ 9.4",
+    "Hira (Pakistan, English 2/5): reading grade ≈ 9.4",
+    "Emeka (Nigeria, English 2/5): reading grade ≈ 9.4"
+   ]
+  },
+  "geography|ge-coasts": {
+   "n": 3,
+   "ex": [
+    "Anjali (Nepal, English 2/5): reading grade ≈ 7.5",
+    "Kamau (Kenya, English 2/5): reading grade ≈ 7.5",
+    "Ishara (Sri Lanka, English 1/5): reading grade ≈ 7.5"
+   ]
+  },
+  "chemistry|ch-atoms": {
+   "n": 4,
+   "ex": [
+    "Zainab (Pakistan, English 3/5): reading grade ≈ 9.6",
+    "Vikram (India, English 1/5): reading grade ≈ 9.6",
+    "Ali (Pakistan, English 1/5): reading grade ≈ 9.6",
+    "Tania (Bangladesh, English 2/5): reading grade ≈ 9.6"
+   ]
+  },
+  "chemistry|ch-covalent": {
+   "n": 3,
+   "ex": [
+    "Zainab (Pakistan, English 3/5): reading grade ≈ 9.9",
+    "Vikram (India, English 1/5): reading grade ≈ 9.9",
+    "Ali (Pakistan, English 1/5): reading grade ≈ 9.9"
+   ]
+  },
+  "chemistry|ch-states": {
+   "n": 3,
+   "ex": [
+    "Vikram (India, English 1/5): reading grade ≈ 8.5",
+    "Ali (Pakistan, English 1/5): reading grade ≈ 8.5",
+    "Tania (Bangladesh, English 2/5): reading grade ≈ 8.5"
+   ]
+  },
+  "chemistry|ch-ionic": {
+   "n": 3,
+   "ex": [
+    "Vikram (India, English 1/5): reading grade ≈ 7.4",
+    "Ali (Pakistan, English 1/5): reading grade ≈ 7.4",
+    "Tania (Bangladesh, English 2/5): reading grade ≈ 7.4"
+   ]
+  },
+  "history|hi-1848": {
+   "n": 2,
+   "ex": [
+    "Bikash (Nepal, English 1/5): reading grade ≈ 8.3",
+    "Aisha (Nigeria, English 1/5): reading grade ≈ 8.3"
+   ]
+  },
+  "history|hi-italy": {
+   "n": 2,
+   "ex": [
+    "Bikash (Nepal, English 1/5): reading grade ≈ 8.4",
+    "Aisha (Nigeria, English 1/5): reading grade ≈ 8.4"
+   ]
+  },
+  "history|hi-germany": {
+   "n": 1,
+   "ex": [
+    "Bikash (Nepal, English 1/5): reading grade ≈ 7.9"
+   ]
+  },
+  "history|hi-uscivil": {
+   "n": 1,
+   "ex": [
+    "Bikash (Nepal, English 1/5): reading grade ≈ 8.6"
+   ]
+  },
+  "english|en-language": {
+   "n": 4,
+   "ex": [
+    "Anjali (Nepal, English 4/5): reading grade ≈ 11.4",
+    "Hira (Pakistan, English 3/5): reading grade ≈ 11.4",
+    "Ishara (Sri Lanka, English 1/5): reading grade ≈ 11.4",
+    "Tania (Bangladesh, English 3/5): reading grade ≈ 11.4"
+   ]
+  },
+  "addmath|am-modulus": {
+   "n": 1,
+   "ex": [
+    "Sneha (India, English 1/5): reading grade ≈ 6.8"
+   ]
+  },
+  "addmath|am-simul": {
+   "n": 2,
+   "ex": [
+    "Sneha (India, English 1/5): reading grade ≈ 8.3",
+    "Arjun (India, English 2/5): reading grade ≈ 8.3"
+   ]
+  },
+  "english|en-register": {
+   "n": 3,
+   "ex": [
+    "Hira (Pakistan, English 3/5): reading grade ≈ 13.6",
+    "Ishara (Sri Lanka, English 1/5): reading grade ≈ 13.6",
+    "Tania (Bangladesh, English 3/5): reading grade ≈ 13.6"
+   ]
+  },
+  "english|en-implicit": {
+   "n": 1,
+   "ex": [
+    "Ishara (Sri Lanka, English 1/5): reading grade ≈ 8.8"
+   ]
+  },
+  "english|en-evaluate": {
+   "n": 1,
+   "ex": [
+    "Ishara (Sri Lanka, English 1/5): reading grade ≈ 6.2"
+   ]
+  },
+  "english|en-summary": {
+   "n": 1,
+   "ex": [
+    "Ishara (Sri Lanka, English 1/5): reading grade ≈ 6.3"
+   ]
+  },
+  "physics|ph-newton": {
+   "n": 2,
+   "ex": [
+    "Ishara (Sri Lanka, English 1/5): reading grade ≈ 6.1",
+    "Ngozi (Nigeria, English 1/5): reading grade ≈ 6.1"
+   ]
+  },
+  "computing|cs-errors": {
+   "n": 3,
+   "ex": [
+    "Hira (Pakistan, English 2/5): reading grade ≈ 8.9",
+    "Emeka (Nigeria, English 2/5): reading grade ≈ 8.9",
+    "Kasun (Sri Lanka, English 1/5): reading grade ≈ 8.9"
+   ]
+  },
+  "computing|cs-filesize": {
+   "n": 1,
+   "ex": [
+    "Kasun (Sri Lanka, English 1/5): reading grade ≈ 6.3"
+   ]
+  }
+ },
+ "longRead": {
+  "chemistry|ch-states": {
+   "n": 1,
+   "ex": [
+    "Achieng skimmed: 116 words, patience ≈ 112"
+   ]
+  },
+  "chemistry|ch-atoms": {
+   "n": 1,
+   "ex": [
+    "Achieng skimmed: 123 words, patience ≈ 112"
+   ]
+  },
+  "chemistry|ch-covalent": {
+   "n": 2,
+   "ex": [
+    "Achieng skimmed: 161 words, patience ≈ 112",
+    "Fatima skimmed: 161 words, patience ≈ 150"
+   ]
+  },
+  "chemistry|ch-formulae": {
+   "n": 1,
+   "ex": [
+    "Achieng skimmed: 126 words, patience ≈ 112"
+   ]
+  },
+  "biology|bi-cells": {
+   "n": 2,
+   "ex": [
+    "Rudo skimmed: 120 words, patience ≈ 61",
+    "Emeka skimmed: 120 words, patience ≈ 107"
+   ]
+  },
+  "biology|bi-classify": {
+   "n": 1,
+   "ex": [
+    "Rudo skimmed: 142 words, patience ≈ 61"
+   ]
+  },
+  "biology|bi-diffusion": {
+   "n": 1,
+   "ex": [
+    "Rudo skimmed: 131 words, patience ≈ 61"
+   ]
+  },
+  "biology|bi-molecules": {
+   "n": 1,
+   "ex": [
+    "Rudo skimmed: 77 words, patience ≈ 61"
+   ]
+  },
+  "biology|bi-enzymes": {
+   "n": 1,
+   "ex": [
+    "Rudo skimmed: 105 words, patience ≈ 61"
+   ]
+  },
+  "history|hi-causes": {
+   "n": 1,
+   "ex": [
+    "Rudo skimmed: 169 words, patience ≈ 125"
+   ]
+  },
+  "history|hi-sources": {
+   "n": 1,
+   "ex": [
+    "Rudo skimmed: 152 words, patience ≈ 125"
+   ]
+  },
+  "physics|ph-measure": {
+   "n": 4,
+   "ex": [
+    "Ishara skimmed: 179 words, patience ≈ 60",
+    "Bilal skimmed: 179 words, patience ≈ 150",
+    "Yusuf skimmed: 179 words, patience ≈ 171",
+    "Mariam skimmed: 179 words, patience ≈ 96"
+   ]
+  },
+  "english|en-explicit": {
+   "n": 2,
+   "ex": [
+    "Ishara skimmed: 205 words, patience ≈ 97",
+    "Tania skimmed: 205 words, patience ≈ 137"
+   ]
+  },
+  "english|en-implicit": {
+   "n": 1,
+   "ex": [
+    "Ishara skimmed: 119 words, patience ≈ 97"
+   ]
+  },
+  "english|en-language": {
+   "n": 2,
+   "ex": [
+    "Ishara skimmed: 152 words, patience ≈ 97",
+    "Tania skimmed: 152 words, patience ≈ 137"
+   ]
+  },
+  "english|en-summary": {
+   "n": 1,
+   "ex": [
+    "Ishara skimmed: 109 words, patience ≈ 97"
+   ]
+  },
+  "english|en-register": {
+   "n": 1,
+   "ex": [
+    "Ishara skimmed: 110 words, patience ≈ 97"
+   ]
+  },
+  "physics|ph-newton": {
+   "n": 1,
+   "ex": [
+    "Bilal skimmed: 175 words, patience ≈ 150"
+   ]
+  },
+  "computing|cs-binary": {
+   "n": 1,
+   "ex": [
+    "Nyasha skimmed: 113 words, patience ≈ 68"
+   ]
+  },
+  "computing|cs-binarith": {
+   "n": 1,
+   "ex": [
+    "Nyasha skimmed: 80 words, patience ≈ 68"
+   ]
+  },
+  "computing|cs-media": {
+   "n": 1,
+   "ex": [
+    "Nyasha skimmed: 88 words, patience ≈ 68"
+   ]
+  },
+  "computing|cs-filesize": {
+   "n": 1,
+   "ex": [
+    "Nyasha skimmed: 120 words, patience ≈ 68"
+   ]
+  },
+  "computing|cs-transmission": {
+   "n": 1,
+   "ex": [
+    "Nyasha skimmed: 138 words, patience ≈ 68"
+   ]
+  },
+  "computing|cs-errors": {
+   "n": 1,
+   "ex": [
+    "Nyasha skimmed: 114 words, patience ≈ 68"
+   ]
+  },
+  "math|f-place": {
+   "n": 4,
+   "ex": [
+    "Sita skimmed: 168 words, patience ≈ 143",
+    "Ishara skimmed: 168 words, patience ≈ 143",
+    "Fatima skimmed: 168 words, patience ≈ 97",
+    "Sakib skimmed: 168 words, patience ≈ 70"
+   ]
+  },
+  "math|f-addsub": {
+   "n": 3,
+   "ex": [
+    "Sita skimmed: 193 words, patience ≈ 143",
+    "Ishara skimmed: 193 words, patience ≈ 143",
+    "Fatima skimmed: 193 words, patience ≈ 97"
+   ]
+  },
+  "physics|ph-speed": {
+   "n": 1,
+   "ex": [
+    "Mariam skimmed: 149 words, patience ≈ 96"
+   ]
+  }
+ },
+ "quits": [
+  {
+   "who": "Otieno, 16, Kenya",
+   "subject": "addmath",
+   "habit": "jumps to the questions",
+   "english": 1,
+   "at": "Quadratics and the discriminant (after 4 wrong in a row)"
+  },
+  {
+   "who": "Yusuf, 16, Refugee camp",
+   "subject": "biology",
+   "habit": "rushes and guesses",
+   "english": 2,
+   "at": "Diffusion, osmosis and active transport (after 7 wrong in a row)"
+  },
+  {
+   "who": "Mariam, 15, Refugee camp",
+   "subject": "biology",
+   "habit": "skims the text",
+   "english": 3,
+   "at": "Diffusion, osmosis and active transport (after 4 wrong in a row)"
+  },
+  {
+   "who": "Yusuf, 14, Refugee camp",
+   "subject": "physics",
+   "habit": "skims the text",
+   "english": 1,
+   "at": "Density (after 4 wrong in a row)"
+  },
+  {
+   "who": "Tendai, 14, Zimbabwe",
+   "subject": "computing",
+   "habit": "jumps to the questions",
+   "english": 3,
+   "at": "Binary and hexadecimal (after 7 wrong in a row)"
+  },
+  {
+   "who": "Yusuf, 15, Refugee camp",
+   "subject": "history",
+   "habit": "studies late at night, tired",
+   "english": 1,
+   "at": "Judging sources (after 4 wrong in a row)"
+  },
+  {
+   "who": "Priya, 16, India",
+   "subject": "addmath",
+   "habit": "rushes and guesses",
+   "english": 3,
+   "at": "Quadratics and the discriminant (after 5 wrong in a row)"
+  },
+  {
+   "who": "Kavya, 15, India",
+   "subject": "geography",
+   "habit": "plays with every slider",
+   "english": 3,
+   "at": "Plates, earthquakes and volcanoes (after 4 wrong in a row)"
+  },
+  {
+   "who": "Anjali, 15, Nepal",
+   "subject": "english",
+   "habit": "gives up when stuck",
+   "english": 1,
+   "at": "Finding information (explicit meaning) (after 3 wrong in a row)"
+  },
+  {
+   "who": "Mariam, 14, Refugee camp",
+   "subject": "computing",
+   "habit": "plays with every slider",
+   "english": 2,
+   "at": "Packets and transmission (after 3 wrong in a row)"
+  },
+  {
+   "who": "Kamau, 15, Kenya",
+   "subject": "geography",
+   "habit": "studies late at night, tired",
+   "english": 5,
+   "at": "Rainforests and Antarctica (after 4 wrong in a row)"
+  },
+  {
+   "who": "Hassan, 16, Refugee camp",
+   "subject": "biology",
+   "habit": "studies late at night, tired",
+   "english": 3,
+   "at": "Classifying living things (after 4 wrong in a row)"
+  },
+  {
+   "who": "Anjali, 14, Nepal",
+   "subject": "math",
+   "habit": "reads every word",
+   "english": 1,
+   "at": "Multiplying and dividing (after 3 wrong in a row)"
+  },
+  {
+   "who": "Ishara, 15, Sri Lanka",
+   "subject": "physics",
+   "habit": "studies late at night, tired",
+   "english": 1,
+   "at": "Measuring, scalars and vectors (after 6 wrong in a row)"
+  },
+  {
+   "who": "Ngozi, 15, Nigeria",
+   "subject": "biology",
+   "habit": "reads every word",
+   "english": 2,
+   "at": "Animal, plant and bacterial cells (after 3 wrong in a row)"
+  },
+  {
+   "who": "Tendai, 14, Zimbabwe",
+   "subject": "physics",
+   "habit": "rushes and guesses",
+   "english": 4,
+   "at": "Measuring, scalars and vectors (after 5 wrong in a row)"
+  },
+  {
+   "who": "Emeka, 14, Nigeria",
+   "subject": "biology",
+   "habit": "studies late at night, tired",
+   "english": 3,
+   "at": "Specialised cells and magnification (after 4 wrong in a row)"
+  },
+  {
+   "who": "Sneha, 15, India",
+   "subject": "addmath",
+   "habit": "jumps to the questions",
+   "english": 1,
+   "at": "Simultaneous equations and substitution (after 6 wrong in a row)"
+  },
+  {
+   "who": "Rahul, 15, India",
+   "subject": "computing",
+   "habit": "rushes and guesses",
+   "english": 3,
+   "at": "Storage units, file sizes and compression (after 7 wrong in a row)"
+  },
+  {
+   "who": "Fatima, 15, Pakistan",
+   "subject": "chemistry",
+   "habit": "skims the text",
+   "english": 4,
+   "at": "Relative mass and the mole (after 3 wrong in a row)"
+  },
+  {
+   "who": "Yusuf, 16, Refugee camp",
+   "subject": "addmath",
+   "habit": "plays with every slider",
+   "english": 1,
+   "at": "Quadratics and the discriminant (after 3 wrong in a row)"
+  },
+  {
+   "who": "Farai, 14, Zimbabwe",
+   "subject": "geography",
+   "habit": "jumps to the questions",
+   "english": 3,
+   "at": "Rivers and drainage basins (after 4 wrong in a row)"
+  },
+  {
+   "who": "Emeka, 16, Nigeria",
+   "subject": "computing",
+   "habit": "jumps to the questions",
+   "english": 4,
+   "at": "Binary and hexadecimal (after 5 wrong in a row)"
+  },
+  {
+   "who": "Nimal, 16, Sri Lanka",
+   "subject": "math",
+   "habit": "studies late at night, tired",
+   "english": 3,
+   "at": "Fractions: first steps (after 4 wrong in a row)"
+  },
+  {
+   "who": "Aisha, 14, Nigeria",
+   "subject": "history",
+   "habit": "rushes and guesses",
+   "english": 1,
+   "at": "How Italy was unified (after 4 wrong in a row)"
+  },
+  {
+   "who": "Nimal, 14, Sri Lanka",
+   "subject": "physics",
+   "habit": "skims the text",
+   "english": 2,
+   "at": "Mass and weight (after 4 wrong in a row)"
+  },
+  {
+   "who": "Ishara, 15, Sri Lanka",
+   "subject": "math",
+   "habit": "rushes and guesses",
+   "english": 1,
+   "at": "Negative numbers (after 7 wrong in a row)"
+  },
+  {
+   "who": "Fatima, 16, Pakistan",
+   "subject": "math",
+   "habit": "gives up when stuck",
+   "english": 2,
+   "at": "Adding and subtracting (after 4 wrong in a row)"
+  },
+  {
+   "who": "Yusuf, 15, Refugee camp",
+   "subject": "physics",
+   "habit": "plays with every slider",
+   "english": 1,
+   "at": "Measuring, scalars and vectors (after 3 wrong in a row)"
+  },
+  {
+   "who": "Zainab, 14, Pakistan",
+   "subject": "chemistry",
+   "habit": "skims the text",
+   "english": 3,
+   "at": "States of matter and diffusion (after 3 wrong in a row)"
+  },
+  {
+   "who": "Otieno, 14, Kenya",
+   "subject": "math",
+   "habit": "gives up when stuck",
+   "english": 3,
+   "at": "Multiplying and dividing (after 5 wrong in a row)"
+  },
+  {
+   "who": "Ishara, 16, Sri Lanka",
+   "subject": "geography",
+   "habit": "rushes and guesses",
+   "english": 1,
+   "at": "Coastal processes and landforms (after 7 wrong in a row)"
+  },
+  {
+   "who": "Sakib, 15, Bangladesh",
+   "subject": "math",
+   "habit": "rushes and guesses",
+   "english": 4,
+   "at": "Place value and big numbers (after 5 wrong in a row)"
+  },
+  {
+   "who": "Hassan, 15, Refugee camp",
+   "subject": "physics",
+   "habit": "rushes and guesses",
+   "english": 2,
+   "at": "Speed, velocity and acceleration (after 5 wrong in a row)"
+  },
+  {
+   "who": "Ishara, 15, Sri Lanka",
+   "subject": "biology",
+   "habit": "jumps to the questions",
+   "english": 1,
+   "at": "Specialised cells and magnification (after 3 wrong in a row)"
+  },
+  {
+   "who": "Ali, 16, Pakistan",
+   "subject": "biology",
+   "habit": "jumps to the questions",
+   "english": 3,
+   "at": "Animal, plant and bacterial cells (after 3 wrong in a row)"
+  },
+  {
+   "who": "Mariam, 16, Refugee camp",
+   "subject": "physics",
+   "habit": "rushes and guesses",
+   "english": 3,
+   "at": "Speed, velocity and acceleration (after 5 wrong in a row)"
+  },
+  {
+   "who": "Tania, 14, Bangladesh",
+   "subject": "chemistry",
+   "habit": "reads every word",
+   "english": 2,
+   "at": "Ions and ionic bonding (after 3 wrong in a row)"
+  },
+  {
+   "who": "Chiamaka, 16, Nigeria",
+   "subject": "addmath",
+   "habit": "jumps to the questions",
+   "english": 1,
+   "at": "Functions, inverses and composites (after 4 wrong in a row)"
+  }
+ ],
+ "repeats": {
+  "biology|bOrganisation": {
+   "n": 13,
+   "ex": [
+    "A group of similar cells working together is a…",
+    "Red blood cells have no nucleus so that…",
+    "A root hair cell is adapted for absorbing water by having…",
+    "Ciliated cells in the airways…"
+   ]
+  },
+  "biology|bClassify": {
+   "n": 5,
+   "ex": [
+    "Mushrooms belong to the…",
+    "Which vertebrate group has feathers and lays hard-shelled eggs?",
+    "Which vertebrate group has moist skin and lays eggs in water?",
+    "Which kingdom do bacteria belong to?"
+   ]
+  },
+  "physics|phSpeed": {
+   "n": 3,
+   "ex": [
+    "A car moves at a steady 12 m/s for 12 s. How far does it travel?",
+    "A runner covers 25 m at a steady 5 m/s. How long does it take?",
+    "A runner covers 200 m at a steady 25 m/s. How long does it take?"
+   ]
+  },
+  "geography|geRivers": {
+   "n": 17,
+   "ex": [
+    "On a flood hydrograph, the lag time is…",
+    "An oxbow lake forms when…",
+    "Hydraulic action is erosion by…",
+    "A tributary is…"
+   ]
+  },
+  "physics|phMassWeight": {
+   "n": 5,
+   "ex": [
+    "Mass is measured in…",
+    "An astronaut goes from Earth to the Moon. What happens to her mass and weight?",
+    "Why is it harder to push a heavy trolley into motion than an empty one?",
+    "A gravitational field is a region where…"
+   ]
+  },
+  "physics|phWeight": {
+   "n": 1,
+   "ex": [
+    "A 8 kg rock weighs 80 N on a planet. What is g on that planet?"
+   ]
+  },
+  "chemistry|chStates": {
+   "n": 15,
+   "ex": [
+    "Diffusion is…",
+    "Ammonia (Mr 17) and hydrogen chloride (Mr 36.5) diffuse towards each other along a tube. T",
+    "Increasing the pressure on a gas at constant temperature makes its volume…",
+    "On a cooling curve, the temperature stays constant while a liquid freezes because…"
+   ]
+  },
+  "history|hiT_y1848": {
+   "n": 2,
+   "ex": [
+    "In which year did this happen? Metternich resigns and flees Vienna",
+    "Which of these happened first ?"
+   ]
+  },
+  "biology|bDiffusion": {
+   "n": 2,
+   "ex": [
+    "The energy for diffusion comes from…",
+    "Diffusion is the net movement of particles…"
+   ]
+  },
+  "math|picBlocks": {
+   "n": 1,
+   "ex": [
+    "What number do these blocks show? 1 hundred 4 tens 6 ones"
+   ]
+  },
+  "math|picPizza": {
+   "n": 6,
+   "ex": [
+    "What fraction of the pizza is shaded?",
+    "What fraction of the pizza is shaded?",
+    "What fraction of the pizza is shaded?",
+    "What fraction of the pizza is shaded?"
+   ]
+  },
+  "addmath|amFunctions": {
+   "n": 19,
+   "ex": [
+    "A function is one–one if…",
+    "The graph of y = |f(x)| is made from y = f(x) by…",
+    "Why does f(x) = x² (x ∈ ℝ) not have an inverse?",
+    "fg(x) means…"
+   ]
+  },
+  "addmath|amQuadIdea": {
+   "n": 6,
+   "ex": [
+    "The range of f(x) = (x − 3)² + 5 for x ∈ ℝ is…",
+    "A line meets a curve. Substituting gives a quadratic with discriminant 0. The line is…",
+    "A quadratic with a > 0 has…",
+    "A quadratic with a > 0 has…"
+   ]
+  },
+  "geography|geTectonics": {
+   "n": 1,
+   "ex": [
+    "A shield volcano has…"
+   ]
+  },
+  "biology|bEnzymes": {
+   "n": 3,
+   "ex": [
+    "Above the optimum temperature, enzyme activity falls because…",
+    "Enzymes are…",
+    "At low temperatures enzymes work slowly because…"
+   ]
+  },
+  "history|hiSkills": {
+   "n": 6,
+   "ex": [
+    "A consequence is…",
+    "A cartoon's message is…",
+    "The provenance of a source means…",
+    "A \"describe\" question asks you to…"
+   ]
+  },
+  "history|hiT_italy": {
+   "n": 6,
+   "ex": [
+    "Which of these happened first ?",
+    "Which of these happened first ?",
+    "Which of these happened first ?",
+    "Which of these happened first ?"
+   ]
+  },
+  "history|hiA": {
+   "n": 14,
+   "ex": [
+    "Archduke Franz Ferdinand was assassinated in Sarajevo in…",
+    "The 1902 Anglo-Japanese Alliance mattered because…",
+    "The Zollverein helped German unification by…",
+    "Germany was united as an empire in…"
+   ]
+  },
+  "geography|geEco": {
+   "n": 2,
+   "ex": [
+    "Buttress roots in the rainforest…",
+    "Penguins survive in Antarctica by…"
+   ]
+  },
+  "chemistry|chCovalent": {
+   "n": 5,
+   "ex": [
+    "How many covalent bonds does carbon form in methane, CH₄?",
+    "Metals are malleable because…",
+    "Simple molecular substances have low melting points because…",
+    "Diamond is very hard because…"
+   ]
+  },
+  "chemistry|chFormulaIdea": {
+   "n": 4,
+   "ex": [
+    "One mole of any substance contains…",
+    "One mole of any gas at room temperature and pressure occupies…",
+    "The limiting reactant is…",
+    "What does (aq) mean in a symbol equation?"
+   ]
+  },
+  "physics|phDensityIdea": {
+   "n": 14,
+   "ex": [
+    "You cut a steel bar in half. The density of each half is…",
+    "How do you find the volume of an irregular stone?",
+    "Why does a block of wood float on water but an iron nail sinks?",
+    "How do you find the volume of an irregular stone?"
+   ]
+  },
+  "chemistry|chMixtures": {
+   "n": 1,
+   "ex": [
+    "Which is a compound?"
+   ]
+  },
+  "chemistry|chIonic": {
+   "n": 2,
+   "ex": [
+    "Oxygen forms the ion…",
+    "Why does sodium chloride have a high melting point?"
+   ]
+  },
+  "english|enExplicit": {
+   "n": 7,
+   "ex": [
+    "What did the first buyer do with the mango? The market woke before the sun did. By five o'",
+    "Where did Amira put the ripest mangoes? The market woke before the sun did. By five o'cloc",
+    "Read the passage. At what time had Amira already stacked the mangoes? The market woke befo",
+    "How did Kofi earn the money? Kofi had saved for eleven months. Every coin from selling wat"
+   ]
+  },
+  "english|enImplicit": {
+   "n": 6,
+   "ex": [
+    "What does the grandfather's drumming fingers suggest? The market woke before the sun did. ",
+    "What does the grandfather mean by \"Patience is also a fruit\"? The market woke before the s",
+    "Why did Amira's \"stomach tighten\" when the woman put the mango back? The market woke befor",
+    "Why did Kofi touch the handlebar \"as if it might disappear\"? Kofi had saved for eleven mon"
+   ]
+  },
+  "physics|phAvg": {
+   "n": 2,
+   "ex": [
+    "A stack of 100 identical sheets of paper is 8 cm thick. How thick is one sheet?",
+    "A stack of 200 identical sheets of paper is 20 cm thick. How thick is one sheet?"
+   ]
+  },
+  "biology|bCells": {
+   "n": 5,
+   "ex": [
+    "Which structure is found in plant cells but NOT animal cells?",
+    "A bacterial cell has…",
+    "The cellulose cell wall…",
+    "The sap vacuole…"
+   ]
+  },
+  "computing|csData": {
+   "n": 17,
+   "ex": [
+    "Increasing the sample rate of a sound recording…",
+    "Lossless compression…",
+    "How many bits are in a nibble?",
+    "Run length encoding (RLE) compresses data by…"
+   ]
+  },
+  "english|enEvaluate": {
+   "n": 8,
+   "ex": [
+    "Which is an OPINION?",
+    "A writer only gives arguments for one side and uses emotional words. The article is likely",
+    "Which is a FACT?",
+    "\"Nine out of ten dentists recommend…\" is mainly used to…"
+   ]
+  },
+  "english|enSummary": {
+   "n": 7,
+   "ex": [
+    "A good first step for a summary is to…",
+    "Which joins two points most concisely?",
+    "Which belongs in a summary?",
+    "Why should you use your own words in a summary?"
+   ]
+  },
+  "english|enRegister": {
+   "n": 6,
+   "ex": [
+    "A report usually has…",
+    "A speech to classmates should…",
+    "Which is suitable for a formal letter to a headteacher?",
+    "A newspaper or magazine article usually needs…"
+   ]
+  },
+  "computing|csTransmit": {
+   "n": 9,
+   "ex": [
+    "Serial transmission sends…",
+    "An echo check works by…",
+    "A packet header contains…",
+    "ARQ (automatic repeat query) uses…"
+   ]
+  },
+  "math|fracShade": {
+   "n": 3,
+   "ex": [
+    "What fraction of this bar is shaded?",
+    "What fraction of this bar is shaded?",
+    "What fraction of this bar is shaded?"
+   ]
+  },
+  "math|picGrid": {
+   "n": 8,
+   "ex": [
+    "What percentage of the grid is shaded?",
+    "Write the shaded part as a decimal .",
+    "What percentage of the grid is shaded?",
+    "Write the shaded part as a decimal ."
+   ]
+  },
+  "addmath|amSimul": {
+   "n": 6,
+   "ex": [
+    "Find the x-coordinates where the line y = 2x − 5 meets the circle x² + y² = 25. Give both,",
+    "Find the x-coordinates where the line y = x + 7 meets the circle x² + y² = 25. Give both, ",
+    "Find the x-coordinates where the line y = x − 1 meets the circle x² + y² = 25. Give both, ",
+    "Find the x-coordinates where the line y = x + 7 meets the circle x² + y² = 25. Give both, "
+   ]
+  },
+  "addmath|amLogIdea": {
+   "n": 7,
+   "ex": [
+    "lg x means…",
+    "Change of base: log_a x =",
+    "log_b b =",
+    "The graph of y = eˣ has an asymptote at…"
+   ]
+  },
+  "english|enLanguage": {
+   "n": 1,
+   "ex": [
+    "The \"growl of thunder\" makes the thunder seem…"
+   ]
+  },
+  "english|enVocab": {
+   "n": 1,
+   "ex": [
+    "Choose the best meaning of \"frugal\" in: \"Living frugally, they saved enough for school fee"
+   ]
+  },
+  "chemistry|chAtom": {
+   "n": 1,
+   "ex": [
+    "Isotopes of an element have the same chemical properties because they have…"
+   ]
+  },
+  "physics|phPeriod": {
+   "n": 2,
+   "ex": [
+    "A pendulum takes 32 s to complete 20 swings. What is the time for one swing?",
+    "A pendulum takes 40 s to complete 20 swings. What is the time for one swing?"
+   ]
+  },
+  "physics|phGraphRead": {
+   "n": 6,
+   "ex": [
+    "On a distance–time graph, a horizontal line means the object is…",
+    "What does the gradient of a speed–time graph tell you?",
+    "A speed–time graph is a straight line sloping down to zero. The object is…",
+    "On a distance–time graph, a horizontal line means the object is…"
+   ]
+  },
+  "physics|phNewton": {
+   "n": 8,
+   "ex": [
+    "A ball moving in a circle at constant speed. Is there a resultant force?",
+    "A book rests on a table. By Newton's third law, the book pulls the Earth up with a force e",
+    "A car moves at constant velocity. The resultant force on it is…",
+    "When you push on a wall, the wall…"
+   ]
+  },
+  "math|picHop": {
+   "n": 1,
+   "ex": [
+    "The frog starts at −3 and jumps left 1. Where does it land? −10 −8 −6 −4 −2 0 2 4 6 8 10 \ud83d"
+   ]
+  },
+  "computing|csParity": {
+   "n": 1,
+   "ex": [
+    "The 7-bit data 1001001 is sent using odd parity. What should the parity bit be (0 or 1)?"
+   ]
+  },
+  "math|numWords": {
+   "n": 1,
+   "ex": [
+    "How do you write 1 300 009 in words?"
+   ]
+  },
+  "physics|phScalar": {
+   "n": 1,
+   "ex": [
+    "What do you use to measure a short time interval most accurately in the lab?"
+   ]
+  },
+  "addmath|amModEq": {
+   "n": 1,
+   "ex": [
+    "Solve |x + 2| = 4. Give both answers, separated by a comma (as fractions or to 2 d.p.)."
+   ]
+  }
+ },
+ "reading": {
+  "math": {
+   "n": 79,
+   "w": 7609,
+   "g": 362.17917603309405,
+   "gn": 79,
+   "hard": 0
+  },
+  "basic": {
+   "n": 11,
+   "w": 789,
+   "g": 39.673895681970734,
+   "gn": 11,
+   "hard": 1
+  },
+  "physics": {
+   "n": 41,
+   "w": 5035,
+   "g": 297.8854410809968,
+   "gn": 41,
+   "hard": 2
+  },
+  "chemistry": {
+   "n": 26,
+   "w": 3193,
+   "g": 244.2058422785356,
+   "gn": 26,
+   "hard": 9
+  },
+  "biology": {
+   "n": 33,
+   "w": 3498,
+   "g": 310.5106021138114,
+   "gn": 33,
+   "hard": 13
+  },
+  "addmath": {
+   "n": 20,
+   "w": 2033,
+   "g": 131.95978301503843,
+   "gn": 20,
+   "hard": 1
+  },
+  "computing": {
+   "n": 20,
+   "w": 2205,
+   "g": 168.35940688547373,
+   "gn": 20,
+   "hard": 4
+  },
+  "english": {
+   "n": 11,
+   "w": 1333,
+   "g": 90.54280433539365,
+   "gn": 11,
+   "hard": 3
+  },
+  "geography": {
+   "n": 17,
+   "w": 1614,
+   "g": 170.46288814020434,
+   "gn": 17,
+   "hard": 10
+  },
+  "history": {
+   "n": 19,
+   "w": 2137,
+   "g": 162.02692622297258,
+   "gn": 19,
+   "hard": 4
+  }
+ },
+ "lowVariety": [
+  [
+   "fracShade",
+   1
+  ],
+  [
+   "whichGraph",
+   1
+  ],
+  [
+   "readPoint",
+   1
+  ],
+  [
+   "describeT",
+   1
+  ],
+  [
+   "correlation",
+   1
+  ],
+  [
+   "picPizza",
+   1
+  ],
+  [
+   "chpH",
+   1
+  ],
+  [
+   "order",
+   2
+  ],
+  [
+   "picGrid",
+   2
+  ],
+  [
+   "classify",
+   3
+  ],
+  [
+   "picBalance",
+   3
+  ],
+  [
+   "picSquares",
+   3
+  ],
+  [
+   "phMomIdea",
+   3
+  ],
+  [
+   "bVariation",
+   3
+  ],
+  [
+   "amVectorIdea",
+   3
+  ],
+  [
+   "phDensityIdea",
+   4
+  ],
+  [
+   "phExpansion",
+   4
+  ],
+  [
+   "phEMcalc",
+   4
+  ],
+  [
+   "phTransIdea",
+   4
+  ],
+  [
+   "phOrbit",
+   4
+  ],
+  [
+   "chMixtures",
+   4
+  ],
+  [
+   "bTropism",
+   4
+  ],
+  [
+   "bRepro",
+   4
+  ],
+  [
+   "bSelection",
+   4
+  ],
+  [
+   "amQuadIdea",
+   4
+  ],
+  [
+   "amCircleIdea",
+   4
+  ],
+  [
+   "amPermIdea",
+   4
+  ],
+  [
+   "amSeriesIdea",
+   4
+  ],
+  [
+   "phMassWeight",
+   5
+  ],
+  [
+   "phFriction",
+   5
+  ],
+  [
+   "phStores",
+   5
+  ],
+  [
+   "phPressIdea",
+   5
+  ],
+  [
+   "phIV",
+   5
+  ],
+  [
+   "phSensors",
+   5
+  ],
+  [
+   "phAtomIdea",
+   5
+  ],
+  [
+   "phLightTime",
+   5
+  ],
+  [
+   "chAtom",
+   5
+  ],
+  [
+   "chBondEnergy",
+   5
+  ],
+  [
+   "bOrganisation",
+   5
+  ],
+  [
+   "bBlood",
+   5
+  ],
+  [
+   "csEmerging",
+   5
+  ],
+  [
+   "csDatabase",
+   5
+  ],
+  [
+   "csLogicIdea",
+   5
+  ],
+  [
+   "enEvaluate",
+   5
+  ],
+  [
+   "enSentences",
+   5
+  ],
+  [
+   "geUrban",
+   5
+  ],
+  [
+   "picSticks",
+   6
+  ],
+  [
+   "phScalar",
+   6
+  ],
+  [
+   "phNewton",
+   6
+  ],
+  [
+   "phChange",
+   6
+  ],
+  [
+   "phLens",
+   6
+  ],
+  [
+   "phStatic",
+   6
+  ],
+  [
+   "phInduction",
+   6
+  ],
+  [
+   "chAr",
+   6
+  ],
+  [
+   "chIonic",
+   6
+  ],
+  [
+   "chEnergetics",
+   6
+  ],
+  [
+   "chMetals",
+   6
+  ],
+  [
+   "chReactivity",
+   6
+  ],
+  [
+   "bDiet",
+   6
+  ],
+  [
+   "bVessels",
+   6
+  ],
+  [
+   "bNerves",
+   6
+  ],
+  [
+   "amTrigIdea",
+   6
+  ],
+  [
+   "enExplicit",
+   6
+  ],
+  [
+   "enSummary",
+   6
+  ],
+  [
+   "enPersuade",
+   6
+  ],
+  [
+   "geDevelopment",
+   6
+  ],
+  [
+   "hiT_versailles",
+   6
+  ],
+  [
+   "hiT_ww1",
+   6
+  ],
+  [
+   "setSymbol",
+   7
+  ],
+  [
+   "changeSubject",
+   7
+  ],
+  [
+   "phGraphRead",
+   7
+  ],
+  [
+   "phResources",
+   7
+  ],
+  [
+   "phStates",
+   7
+  ],
+  [
+   "phWaveIdea",
+   7
+  ],
+  [
+   "phMagnetism",
+   7
+  ],
+  [
+   "phSafety",
+   7
+  ],
+  [
+   "phMotor",
+   7
+  ],
+  [
+   "chStates",
+   7
+  ],
+  [
+   "chFormulaIdea",
+   7
+  ],
+  [
+   "chRedox",
+   7
+  ],
+  [
+   "chSalts",
+   7
+  ],
+  [
+   "chWater",
+   7
+  ],
+  [
+   "chEster",
+   7
+  ],
+  [
+   "chPolymers",
+   7
+  ],
+  [
+   "bEnzymes",
+   7
+  ],
+  [
+   "bBreathing",
+   7
+  ],
+  [
+   "bRespiration",
+   7
+  ],
+  [
+   "bEye",
+   7
+  ],
+  [
+   "bDivision",
+   7
+  ],
+  [
+   "amFunctions",
+   7
+  ],
+  [
+   "amLogIdea",
+   7
+  ],
+  [
+   "csValidation",
+   7
+  ],
+  [
+   "enImplicit",
+   7
+  ],
+  [
+   "enVocab",
+   7
+  ],
+  [
+   "enApostrophe",
+   7
+  ],
+  [
+   "enPunct",
+   7
+  ],
+  [
+   "enRegister",
+   7
+  ],
+  [
+   "enCreative",
+   7
+  ],
+  [
+   "geClimate",
+   7
+  ],
+  [
+   "geEconomy",
+   7
+  ],
+  [
+   "hiT_y1848",
+   7
+  ],
+  [
+   "hiT_hitler",
+   7
+  ],
+  [
+   "hiT_coldwar",
+   7
+  ],
+  [
+   "distTime",
+   8
+  ],
+  [
+   "shapeName",
+   8
+  ],
+  [
+   "beSentence",
+   8
+  ],
+  [
+   "phTurning",
+   8
+  ],
+  [
+   "phLight",
+   8
+  ],
+  [
+   "phCircuitIdea",
+   8
+  ],
+  [
+   "phFuse",
+   8
+  ],
+  [
+   "chElec",
+   8
+  ],
+  [
+   "chRates",
+   8
+  ],
+  [
+   "bCells",
+   8
+  ],
+  [
+   "bMolecules",
+   8
+  ],
+  [
+   "bPlantTransport",
+   8
+  ],
+  [
+   "bExcretion",
+   8
+  ],
+  [
+   "bBiotech",
+   8
+  ],
+  [
+   "amCalcIdea",
+   8
+  ],
+  [
+   "enAgree",
+   8
+  ],
+  [
+   "geEco",
+   8
+  ],
+  [
+   "gePopulation",
+   8
+  ],
+  [
+   "geResources",
+   8
+  ],
+  [
+   "geSkills",
+   8
+  ],
+  [
+   "hiT_eeurope",
+   8
+  ],
+  [
+   "hiT_ww2",
+   8
+  ]
+ ],
+ "keypadShare": {
+  "numQs": 2423,
+  "negAns": 121,
+  "fracAns": 112,
+  "multiAns": 211
+ }
+}

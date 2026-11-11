@@ -1,0 +1,5 @@
+brag-output/
+outreach/
+*.zip
+node_modules/
+.wrangler/

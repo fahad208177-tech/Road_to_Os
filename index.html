@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Road to O's</title>
+  <meta name="description" content="Learn O Level Maths, Physics and more from scratch, with pictures first. Free, offline, made for any phone.">
+  <meta name="theme-color" content="#1a6847">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%231a6847'/><path d='M9 28 14.5 6h3L23 28Z' fill='%23f6f5ef'/><path d='M16 9v3M16 15v3.5M16 22v4' stroke='%23f0b400' stroke-width='1.8' stroke-linecap='round'/></svg>">
+  <link rel="preload" href="fonts/atkinson-400.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="styles.css?v=20261108b">
+  <link rel="stylesheet" href="scenes.css?v=20261108b">
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="#/"><svg class="logo-mark" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><rect width="32" height="32" rx="8" fill="var(--brand)"/><path d="M9 28 14.5 6h3L23 28Z" fill="var(--brand-ink)" opacity=".92"/><path d="M16 9v3M16 15v3.5M16 22v4" stroke="var(--accent)" stroke-width="1.8" stroke-linecap="round"/></svg><span>Road to O's</span></a>
+    <div class="tstats">
+      <span class="pill hot" title="Day streak"><span data-ic="flame"></span><b id="tb-streak">0</b><span class="vh">day streak</span></span>
+      <span class="pill" title="Total XP"><span data-ic="bolt"></span><b id="tb-xp">0</b><span class="vh">XP</span></span>
+      <span class="ring" id="tb-ring" aria-label="Daily goal"><span>Lv <b id="tb-lv">1</b></span></span>
+    </div>
+    <div class="lvbar"><div id="tb-lvbar"></div></div>
+  </header>
+
+  <main id="view" class="enter"><p class="loading">Loading your lessons…</p></main>
+
+  <nav class="nav" aria-label="Main">
+    <a href="#/" data-nav="road"><span data-ic="road"></span>Road</a>
+    <a href="#/warmup" data-nav="warm"><span data-ic="sun"></span>Warm-up</a>
+    <a href="#/buddy" data-nav="buddy"><span data-ic="chat"></span>Syllabuddy</a>
+    <a href="#/me" data-nav="me"><span data-ic="user"></span>Me</a>
+  </nav>
+
+  <div id="toasts" aria-live="polite"></div>
+  <canvas id="confetti" aria-hidden="true"></canvas>
+
+  <noscript><p style="padding:20px">Road to O's needs JavaScript turned on.</p></noscript>
+
+  <script src="js/kit.js?v=20261108b"></script>
+  <script src="js/icons.js?v=20261108b"></script>
+  <script src="data/syllabus.js?v=20261108b"></script>
+  <script src="data/syl_physics.js?v=20261108b"></script>
+  <script src="data/syl_chemistry.js?v=20261108b"></script>
+  <script src="data/syl_biology.js?v=20261108b"></script>
+  <script src="data/syl_addmath.js?v=20261108b"></script>
+  <script src="data/syl_computing.js?v=20261108b"></script>
+  <script src="data/syl_geography.js?v=20261108b"></script>
+  <script src="js/app.js?v=20261108b"></script>
+  <script src="js/help.js?v=20261108b"></script>
+  <script src="js/scenes.js?v=20261108b"></script>
+  <script src="data/m1_foundations.js?v=20261108b"></script>
+  <script src="data/m2_number.js?v=20261108b"></script>
+  <script src="data/m3_algebra.js?v=20261108b"></script>
+  <script src="data/m4_geometry.js?v=20261108b"></script>
+  <script src="data/m5_trig_vec_prob_stats.js?v=20261108b"></script>
+  <script src="data/pictures.js?v=20261108b"></script>
+  <script src="data/concepts_number.js?v=20261108b"></script>
+  <script src="data/concepts_algebra.js?v=20261108b"></script>
+  <script src="data/concepts_shape.js?v=20261108b"></script>
+  <script src="data/concepts_rest.js?v=20261108b"></script>
+  <script src="js/scikit.js?v=20261108b"></script>
+  <script src="data/basic_english.js?v=20261108b"></script>
+  <script src="data/phy1_mechanics.js?v=20261108b"></script>
+  <script src="data/phy2_thermal_waves.js?v=20261108b"></script>
+  <script src="data/phy3_electricity.js?v=20261108b"></script>
+  <script src="data/phy4_nuclear_space.js?v=20261108b"></script>
+  <script src="data/chem1_matter_moles.js?v=20261108b"></script>
+  <script src="data/chem2_reactions.js?v=20261108b"></script>
+  <script src="data/chem3_organic_lab.js?v=20261108b"></script>
+  <script src="data/bio1_cells_plants.js?v=20261108b"></script>
+  <script src="data/bio2_body.js?v=20261108b"></script>
+  <script src="data/bio3_genetics_ecology.js?v=20261108b"></script>
+  <script src="data/am1_algebra.js?v=20261108b"></script>
+  <script src="data/am2_trig_calculus.js?v=20261108b"></script>
+  <script src="data/cs1_systems.js?v=20261108b"></script>
+  <script src="data/cs2_programming.js?v=20261108b"></script>
+  <script src="data/en1_reading.js?v=20261108b"></script>
+  <script src="data/en2_writing.js?v=20261108b"></script>
+  <script src="data/geo_course.js?v=20261108b"></script>
+  <script src="data/hist_course.js?v=20261108b"></script>
+  <script src="data/pathways.js?v=20261108b"></script>
+  <script src="data/glossary.js?v=20261108b"></script>
+  <script src="js/writing.js?v=20261108b"></script>
+  <script src="js/buddy.js?v=20261108b"></script>
+  <script>R2O.start();</script>
+</body>
+</html>
